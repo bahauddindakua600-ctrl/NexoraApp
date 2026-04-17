@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33172615764",
+    "firebase_url": "https://bahauddin-23ee3-default-rtdb.firebaseio.com",
+    "project_id": "bahauddin-23ee3",
+    "storage_bucket": "bahauddin-23ee3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33172615764:android:4eb4e365f2664ab770b3c1",
+        "android_client_info": {
+          "package_name": "com.nexora.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33172615764-7d2faddm3skvfk2cgd6ea0746vtp30st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa6QtHOr_MZTJoh709RCPvMvdIGSFigF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33172615764-7d2faddm3skvfk2cgd6ea0746vtp30st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
