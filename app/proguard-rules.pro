@@ -1,0 +1,2 @@
+-keep class com.nexora.app.** { *; }
+-dontwarn com.nexora.**
